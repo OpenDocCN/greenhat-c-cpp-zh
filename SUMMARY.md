@@ -1,4 +1,5 @@
 +   [批处理脚本编程之书](docs/bk-bth-scr/README.md)
 +   [C 语言裸金属指南](docs/brmtl-c/README.md)
++   [C++ 速成课](docs/cpp-crs-crs/README.md)
 +   [C 语言高效编程](docs/eff-c/README.md)
 +   [编写 C 语言编译器](docs/wrt-c-cmpl/README.md)
